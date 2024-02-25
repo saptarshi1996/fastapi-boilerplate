@@ -1,0 +1,7 @@
+dist/
+venv/
+Dockerfile
+Makefile
+.dockerignore
+.gitignore
+.git
